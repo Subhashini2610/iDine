@@ -18,6 +18,7 @@
 		301F7F64243394A900C01C03 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301F7F62243394A900C01C03 /* Menu.swift */; };
 		301F7F66243394CB00C01C03 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 301F7F65243394CB00C01C03 /* menu.json */; };
 		301F7F682433A4FF00C01C03 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301F7F672433A4FF00C01C03 /* ItemRow.swift */; };
+		309E4D7C2433C690009BA2A3 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309E4D7B2433C690009BA2A3 /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		301F7F62243394A900C01C03 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		301F7F65243394CB00C01C03 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		301F7F672433A4FF00C01C03 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		309E4D7B2433C690009BA2A3 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				301F7F4B2433944800C01C03 /* AppDelegate.swift */,
 				301F7F4D2433944800C01C03 /* SceneDelegate.swift */,
 				301F7F4F2433944800C01C03 /* ContentView.swift */,
+				309E4D7B2433C690009BA2A3 /* ItemDetail.swift */,
 				301F7F672433A4FF00C01C03 /* ItemRow.swift */,
 				301F7F5F2433947000C01C03 /* Helper.swift */,
 				301F7F65243394CB00C01C03 /* menu.json */,
@@ -167,6 +170,7 @@
 				301F7F4E2433944800C01C03 /* SceneDelegate.swift in Sources */,
 				301F7F682433A4FF00C01C03 /* ItemRow.swift in Sources */,
 				301F7F63243394A900C01C03 /* Order.swift in Sources */,
+				309E4D7C2433C690009BA2A3 /* ItemDetail.swift in Sources */,
 				301F7F502433944800C01C03 /* ContentView.swift in Sources */,
 				301F7F602433947000C01C03 /* Helper.swift in Sources */,
 			);
